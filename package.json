@@ -4,6 +4,14 @@
   "description": "",
   "main": "index.js",
   "typings": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jialongsu/qiniu-s-webpack-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jialongsu/qiniu-s-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/jialongsu/qiniu-s-webpack-plugin#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
