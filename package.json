@@ -1,0 +1,23 @@
+{
+  "name": "qiniu-s-webpack-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "lodash": "^4.17.21",
+    "qiniu": "^7.4.0"
+  },
+  "files": [
+    "src",
+    "index.d.ts",
+    "index.js"
+  ]
+}
